@@ -1,0 +1,2 @@
+LOGIN = "Vlad"
+PASSWORD = "1234"
